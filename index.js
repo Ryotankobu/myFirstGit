@@ -1,0 +1,1 @@
+console.log("task2 index.js creation")
