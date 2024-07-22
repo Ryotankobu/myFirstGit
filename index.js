@@ -1,1 +1,1 @@
-console.log("task2 index.js creation")
+console.log("task2 checking git status");
