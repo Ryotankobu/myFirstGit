@@ -5,7 +5,7 @@ function calculate(a, b) {
 }
 
 
-answer = calculate(5, 10)
+answer = calculate(100, 100)
 print(answer)
 
 console.log("this is a conflict3")
