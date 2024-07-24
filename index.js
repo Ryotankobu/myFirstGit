@@ -8,4 +8,6 @@ function calculate(a, b) {
 answer = calculate(5, 10)
 print(answer)
 
+console.log("this is a conflict1")
+
 
