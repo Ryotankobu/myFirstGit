@@ -8,7 +8,5 @@ function calculate(a, b) {
 answer = calculate(100, 100)
 print(answer)
 
-console.log("this is a conflict3")
-console.log("this is a conflict2")
-
+console.log("I deleted 2 lines then added this line")
 
