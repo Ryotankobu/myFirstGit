@@ -1,4 +1,4 @@
-console.log("task2 checking git status");
+console.log("I caused a merge conflict");
 
 function calculate(a, b) {
     return a + b
