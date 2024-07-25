@@ -1,8 +1,2 @@
-console.log("Hello World");
+console.log("Caused conflict");
 
-function calculate(a, b) {
-  return a + b;
-}
-
-answer = calculate(300, 300);
-print(answer);
